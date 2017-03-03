@@ -125,7 +125,7 @@
  $test =  new  User();
  $test->setName('Dhaouadi');
  $test->setLastName('Amir');
- $test->setDateN('24061988');
+ $test->setDateN('11061987');
  $test->setUsername(null);
  $test->setPassword(null); // si vous voulez ajouter votre propore mot de passe ajouter le à la place de la valeur null
  
